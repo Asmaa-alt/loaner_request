@@ -8,23 +8,23 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
         <mobile_title>Loaner Request</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>1</order>
+        <name>x_cdltd_loaner_req_loaner_request</name>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>active=true^EQ</query>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-05-24 13:55:27</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0142fb399d1470107f44b64d9d529bcc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">0cf0fb399d1470107f44b64d9d529b92</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Loaner Request">0cf0fb399d1470107f44b64d9d529b92</sys_scope>
         <sys_update_name>sys_app_module_0142fb399d1470107f44b64d9d529bcc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-24 13:55:27</sys_updated_on>
+        <sys_updated_on>2021-05-25 21:01:11</sys_updated_on>
         <timeline_page/>
         <title>Loaner Request</title>
         <uncancelable>false</uncancelable>
